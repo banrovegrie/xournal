@@ -1,7 +1,11 @@
-Version 0.4.8 (June 30, 2014)
+# Arjo's Xournal
 
-Installation:  see INSTALL
-User's manual: see html-doc/manual.html
-Updates:       see http://xournal.sourceforge.net/
+Installation:  see INSTALL (please do the $HOME install)
 
-See also: http://sourceforge.net/projects/xournal
+## My customizations:
+
+- The pen cursor looks absolute shit in original xournal, so I reverted to
+  original mouse format which is more to my liking.
+- Please try the $HOME installation.
+- I intend to fix some issues regarding zooming and effect of creating `new
+  page`.
