@@ -1,8 +1,8 @@
-# Arjo's Xournal
+## Arjo's Xournal
 
-Installation:  see INSTALL (please do the $HOME install)
+Installation:  see `INSTALL` (please do the `$HOME` install)
 
-## My customizations:
+### My customizations:
 
 - The pen cursor looks absolute shit in original xournal, so I reverted to
   original mouse format which is more to my liking.
